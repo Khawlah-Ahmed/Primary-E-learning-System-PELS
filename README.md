@@ -8,9 +8,9 @@ More specifically, the system will allow students to access materials and take q
 ## System Design:
 ![Capture](https://user-images.githubusercontent.com/40549682/62726456-ef1e3e80-ba1f-11e9-93b6-1a2605c4af2f.PNG)
 ## 
-![Capture2](https://user-images.githubusercontent.com/40549682/62726457-ef1e3e80-ba1f-11e9-9431-685d0addd6f3.PNG)
-## 
 ![Capture3](https://user-images.githubusercontent.com/40549682/62726459-efb6d500-ba1f-11e9-8c32-307e68869c4f.PNG)
+##
+![Capture2](https://user-images.githubusercontent.com/40549682/62726457-ef1e3e80-ba1f-11e9-9431-685d0addd6f3.PNG)
 ## 
 ![Capture5](https://user-images.githubusercontent.com/40549682/62726460-efb6d500-ba1f-11e9-982c-00f1d1d676ce.PNG)
 ## 
